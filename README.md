@@ -16,7 +16,8 @@
     - 打包工具：Nuitka
     - 網頁：Flask
     - 資料庫：SQLite3
-* 使用得第三方套件&用途
+
+* 使用的第三方套件&用途：
   - requests：爬取學生資料、對網頁API發送GET/POST請求
   - BeautifulSoup：網頁資料處理
   - pickle：儲存/使用Cookies
@@ -25,7 +26,7 @@
   - zstandard、lzma：文件壓縮/解壓
   - traceback、logging：紀錄程式錯誤訊息
   - concurrent.futures：多線程操作
-    
+  - Flask：製作網頁後端功能
 
 # [學校作業]網路購物平台功能實作
   詳細介紹：https://github.com/DMCDN/ASP.NET-Work
@@ -44,11 +45,14 @@
     - 使用GridView物件與SQL Select指令連接
     - 商品篩選功能實作
     - 購物車功能實作
+
+
 # [Discord Bot]服務馬文
   詳細介紹：https://github.com/DMCDN/MRVN_Bot
 
 ![image](https://github.com/DMCDN/What-I-Do/assets/128150279/f1006b1b-564c-4a8f-9736-42009fd72753)
 
+* 使用的第三方套件&用途：
   - discord.py：Discord API wrapper
   - psutil：獲取電腦狀態(CPU/GPU/RAM使用率等)
   - Crypto.Util：加密/解密用戶資料
