@@ -73,7 +73,8 @@
 **詳細介紹：https://github.com/DMCDN/MRVN_Bot**
 
 # [漏洞分析紀錄]紀錄某更新程序的漏洞
-  ![image](https://github.com/DMCDN/What-I-Do/assets/128150279/266f8afc-e9f1-440a-9877-79f233ae0a56)
+
+![image](https://github.com/DMCDN/What-I-Do/assets/128150279/13a32d83-9c93-4f56-bca1-646c66b6dbdc)
 
   某公司提供的遊戲更新服務，早期許多開發商使用此服務時都犯的錯誤，可能會使開發版本遭外洩，進而導致許多問題(如開發版本附帶的GM功能被研發成作弊程式，未上市活動、美術資源被提前洩漏)
   
